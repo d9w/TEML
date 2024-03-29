@@ -1,5 +1,5 @@
 ---
-title: "Toulouse Workshop on Evolutionary Computation and Machine Learning"
+title: "TEML"
 date: 2024-03-29
 draft: false
 ---
@@ -7,6 +7,8 @@ draft: false
 <style>
 #wrapper { background-color: #FFF; }
 </style>
+
+# Toulouse Workshop on<br/> Evolutionary Computation and Machine Learning
 
 Evolutionary computation (EC) has long been at the forefront of harnessing the principles of natural selection to solve complex problems in a myriad of domains, ranging from optimization to artificial intelligence. Recently, the fusion of EC with machine learning (ML) techniques has opened new vistas for research, offering unprecedented opportunities to tackle some of the most challenging issues faced by the scientific community today. This intersectional domain leverages the explorative power of evolutionary algorithms to enhance the adaptability and efficiency of machine learning models, leading to breakthroughs in algorithmic design, problem-solving methodologies, and the interpretability of artificial intelligence systems.
 
