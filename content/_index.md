@@ -8,7 +8,7 @@ draft: false
 #wrapper { background-color: #FFF; }
 </style>
 
-# Toulouse Workshop on<br/> Evolutionary Computation and Machine Learning
+<a href="TEML.pdf"><img src="TEML.png"></a>
 
 Evolutionary computation (EC) has long been at the forefront of harnessing the principles of natural selection to solve complex problems in a myriad of domains, ranging from optimization to artificial intelligence. Recently, the fusion of EC with machine learning (ML) techniques has opened new vistas for research, offering unprecedented opportunities to tackle some of the most challenging issues faced by the scientific community today. This intersectional domain leverages the explorative power of evolutionary algorithms to enhance the adaptability and efficiency of machine learning models, leading to breakthroughs in algorithmic design, problem-solving methodologies, and the interpretability of artificial intelligence systems.
 
@@ -24,13 +24,32 @@ Manufacture des Tabacs<br/>
 
 ## Program
 
-Full program to be announced soon. Confirmed speakers include: Antoine Cully, Gabriela Ochoa, Eric Medvet, and more. Confirmed topics include:
+| Time | Speaker | Title |
+| ---- | ---- | ---- |
+| 9:00 | coffee |  |
+| 9:30 | Antoine Cully | Adaptive Machines: Quality-Diversity and Evolutionary-RL for Versatile and Resilient Robotics |
+| 10:15 | Manon Flageat | Recent advancements in Quality Diversity |
+| 10:45 | Paul-Antoine le Tolguenec | Curiosity creates Diversity in Policy Search |
+| 11:15 | Giorgia Nadizar | Interpretable Control with Graph Genetic Programming |
+| 12:00 | lunch |  |
+| 13:30 | Eric Medvet | Where is intelligence in simulated modular soft robots? |
+| 14:00 | Sylvain Cussat-Blanc | Evolutionary design of explainable algorithms for biomedical image segmentation |
+| 14:45 | Yuri Lavinas | Active Learning in Genetic Programming |
+| 15:15 | coffee |  |
+| 15:45 | Gabriela Ochoa | Search Trajectory Networks |
+| 16:15 | Camilo de la Torre | Search Trajectory Networks for Cartesian Genetic Programming |
+| 16:30 | Tarek Kunze | Searching Search Spaces: Meta-evolving a Geometric Encoding for Neural Networks |
+| 16:45 | Dennis Wilson | Evolving Programs with Large Language Models |
 
-+ Evolutionary design of explainable algorithms for biomedical image segmentation
-+ Interpretable Control with Graph Genetic Programming
-+ Search Trajectory Networks
-+ Quality Diversity
-+ Evolving programs with Large Language Models
+## Registration
+
+In-person registration will be limited to 40 participants. To register, please fill out [this form](https://forms.gle/aZcHH433LEfNN2ZAA).
+
+Online registration is appreciated but not necessary. Online participation will be available through Zoom:
+
+[https://zoom.us/my/dennisgwilson](https://zoom.us/my/dennisgwilson)
+
+
 
 ## Organizers
 
