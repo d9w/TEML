@@ -28,7 +28,7 @@ Manufacture des Tabacs<br/>
 | ---- | ---- | ---- |
 | 9:00 | coffee |  |
 | 9:30 | Antoine Cully | Adaptive Machines: Quality-Diversity and Evolutionary-RL for Versatile and Resilient Robotics |
-| 10:15 | Manon Flageat | Recent advancements in Quality Diversity |
+| 10:15 | Manon Flageat | Consistent diversity: importance of reproducible solutions when optimizing for diversity |
 | 10:45 | Paul-Antoine le Tolguenec | Curiosity creates Diversity in Policy Search |
 | 11:15 | Giorgia Nadizar | Interpretable Control with Graph Genetic Programming |
 | 12:00 | lunch |  |
