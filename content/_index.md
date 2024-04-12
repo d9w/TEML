@@ -49,9 +49,28 @@ Online registration is appreciated but not necessary. Online participation will 
 
 [https://zoom.us/my/dennisgwilson](https://zoom.us/my/dennisgwilson)
 
+## Paul Templier thesis defense
 
+This workshop is organized due to, and directly follows, the PhD defense of Paul Templier, entitled **Leveraging Structures in Evolutionary Neural Policy Search.**
 
-## Organizers
+The defense will take place on Monday 22 April at 2:00pm in the salle des thèses of ISAE-SUPAERO, and will be conducted in English.
+
+A webcast will be also available [on Zoom](https://zoom.us/my/dennisgwilson).
+
+The jury will be composed of:
+
+- Emmanuel RACHELSON, ISAE-SUPAERO, PhD supervisor
+- Dennis WILSON, ISAE-SUPAERO, PhD co-supervisor
+- Nikolaus HANSEN, INRIA, Reviewer
+- Olivier SIGAUD, Sorbonne Université, Reviewer
+- Gabriela OCHOA, University of Stirling, Examiner
+- Daniel DELAHAYE, ENAC, Examiner
+
+### Abstract:
+
+While training an artificial agent for complex tasks like driving a car, mastering a video game, or controlling plasma in a nuclear fusion reactor, innovations can lead to intelligent behavior. In such scenarios, a promising approach is to mimick the natural world's evolutionary process, which has honed the problem-solving capabilities of animal brains. Evolutionary Neural Policy Search (ENPS) draws inspiration from this concept. It creates a diverse population of ``brains'' represented by neural networks, allowing the system to ``evolve'' by selectively combining and mutating successful individuals. This thesis delves into the core components of ENPS and their intricate interplay. By analyzing the structures of ENPS, the goal is to design novel policy search methods that enhance these components, ultimately leading to the development of more efficient and effective learning algorithms for complex tasks.
+
+## Workshop Organizers
 
 **Dennis G. Wilson**<br/>
 [email](mailto:dennis.wilson@isae.fr)<br/>
